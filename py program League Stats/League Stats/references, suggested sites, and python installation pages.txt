@@ -1,0 +1,16 @@
+the program flow chart walkthrough :D :
+	https://drive.google.com/file/d/0B5JProefLA0KcUNvRXoyQ2VWRVU/view?usp=sharing
+typical loop:
+	https://drive.google.com/file/d/0B5JProefLA0KVHdyRzVILVhPRGM/view?usp=sharing
+typical if statement:
+	https://drive.google.com/file/d/0B5JProefLA0KUWJXaUduZEtJNU0/view?usp=sharing
+typical process summary:
+	https://drive.google.com/file/d/0B5JProefLA0KU19URXB1Yy1IYnM/view?usp=sharing
+codecademy home page:
+	https://www.codecademy.com/
+codecademy python tutorial:
+	https://www.codecademy.com/en/learn/python
+python installation downlaod (3.5.1 and 2.7.11--- i use 2.7.11):
+	https://www.python.org/downloads/
+pypi is a community operated site used to make modules public, and to make use of said public modules:
+	https://pypi.python.org/pypi
